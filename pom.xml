@@ -19,7 +19,7 @@
 
     <groupId>com.artnaseef</groupId>
     <artifactId>kafka-maven-plugin</artifactId>
-    <version>1.1.0</version>
+    <version>1.1.0-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
     <name>kafka-maven-plugin Maven Plugin</name>
@@ -48,7 +48,7 @@
     <scm>
         <developerConnection>scm:git:ssh://git@github.com/artnaseef/kafka-maven-plugin.git</developerConnection>
         <url>https://github.com/artnaseef/kafka-maven-plugin</url>
-        <tag>kafka-maven-plugin-1.1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
